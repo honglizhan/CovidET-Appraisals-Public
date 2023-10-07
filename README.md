@@ -22,3 +22,8 @@ The data can be found under the "data" folder.
     publisher = "Association for Computational Linguistics",
 }
 ```
+
+
+[![ClustrMaps Tracker](https://www.clustrmaps.com/map_v2.png?d=hscvcJEH3ZC7uj3MYaSB93PHb_T-Uw_QGE88O-cQIq4&cl=ffffff)](https://clustrmaps.com/site/1btg0)
+
+(Traffic since Oct 7th, 2023)
