@@ -15,7 +15,7 @@ The data can be found under the "data" folder.
     author = "Zhan, Hongli  and
       Ong, Desmond  and
       Li, Junyi Jessy",
-    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
     month = dec,
     year = "2023",
     address = "Singapore",
