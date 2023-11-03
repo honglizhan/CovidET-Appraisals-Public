@@ -1,4 +1,4 @@
-# CovidET-Appraisals (EMNLP 2023)
+# CovidET-Appraisals (EMNLP 2023 Findings)
 
 This repo contains the dataset for our EMNLP 2023 findings paper. If you use this dataset, please cite our paper. We publicly release our annotated dataset CovidET-Appraisals, model outputs, and our human evaluation data here.
 
