@@ -10,7 +10,7 @@ Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https
 @inproceedings{zhan-etal-2023-appraisals,
     title = "Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models",
     author = "Zhan, Hongli  and
-      Ong, C. Desmond  and
+      Ong, Desmond C.  and
       Li, Junyi Jessy",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
     month = dec,
