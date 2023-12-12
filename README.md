@@ -10,7 +10,7 @@ Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https
 @inproceedings{zhan-etal-2023-evaluating,
     title = "Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models",
     author = "Zhan, Hongli  and
-      Ong, Desmond  and
+      Ong, Desmond C.  and
       Li, Junyi Jessy",
     editor = "Bouamor, Houda  and
       Pino, Juan  and
