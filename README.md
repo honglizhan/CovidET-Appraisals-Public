@@ -7,16 +7,22 @@ Title: <a href="https://arxiv.org/abs/2310.14389">Evaluating Subjective Cognitiv
 Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https://cascoglab.psy.utexas.edu/desmond/">Desmond C. Ong</a>, <a href="https://jessyli.com/">Junyi Jessy Li</a>
 
 ```bibtex
-@inproceedings{zhan-etal-2023-appraisals,
+@inproceedings{zhan-etal-2023-evaluating,
     title = "Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models",
     author = "Zhan, Hongli  and
       Ong, Desmond  and
       Li, Junyi Jessy",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
     month = dec,
     year = "2023",
     address = "Singapore",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.962",
+    pages = "14418--14446",
+    abstract = "The emotions we experience involve complex processes; besides physiological aspects, research in psychology has studied cognitive appraisals where people assess their situations subjectively, according to their own values (Scherer, 2005). Thus, the same situation can often result in different emotional experiences. While the detection of emotion is a well-established task, there is very limited work so far on the automatic prediction of cognitive appraisals. This work fills the gap by presenting CovidET-Appraisals, the most comprehensive dataset to-date that assesses 24 appraisal dimensions, each with a natural language rationale, across 241 Reddit posts. CovidET-Appraisals presents an ideal testbed to evaluate the ability of large language models {---} excelling at a wide range of NLP tasks {---} to automatically assess and explain cognitive appraisals. We found that while the best models are performant, open-sourced LLMs fall short at this task, presenting a new challenge in the future development of emotionally intelligent models. We release our dataset at https://github.com/honglizhan/CovidET-Appraisals-Public.",
 }
 ```
 
