@@ -2,7 +2,7 @@
 
 This repo contains the dataset for our EMNLP 2023 findings paper. If you use this dataset, please cite our paper. We publicly release our annotated dataset CovidET-Appraisals, model outputs, and our human evaluation data here.
 
-Title: <a href="https://arxiv.org/abs/2310.14389">Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models</a>
+Title: <a href="https://aclanthology.org/2023.findings-emnlp.962/">Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models</a>
 
 Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https://cascoglab.psy.utexas.edu/desmond/">Desmond C. Ong</a>, <a href="https://jessyli.com/">Junyi Jessy Li</a>
 
